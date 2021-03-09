@@ -2,9 +2,9 @@
 
 ## About the sample
 
-This example illustrates how to customize the Toggle button in GroupDropArea in DataGrid
+This example illustrates how to customize the Toggle button in `GroupDropArea` in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
-By default, Toggle button is Gray color in GroupDropArea, you can able to change the color of the Toggle button by customizing the `ToggleButton` and `GroupDropArea` style.
+You can change the Toggle button color by customizing the `ToggleButton` and `GroupDropArea` style in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
 ```xml
 <Window.Resources>
