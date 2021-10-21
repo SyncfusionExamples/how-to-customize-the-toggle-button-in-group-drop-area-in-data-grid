@@ -141,5 +141,8 @@ You can change the Toggle button color by customizing the `ToggleButton` and `Gr
     </Style>
 </Window.Resources>
 ```
+
+KB article - [How to customize the Toggle button color in GroupDropArea in DataGrid(SfDataGrid)?](https://www.syncfusion.com/kb/11231/how-to-customize-the-toggle-button-color-in-groupdroparea-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
